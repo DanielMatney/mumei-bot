@@ -25,5 +25,5 @@ client.on('ready', async () => {
     commandBase.listen(client);
 })
 
-client.login(process.env.mumeibot-token)
+client.login(process.env.MUMEI_TOKEN)
 console.log('Mumei is awake')
