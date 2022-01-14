@@ -1,5 +1,5 @@
 const { User } = require('discord.js')
-const { prefix } = require('../config.json')
+const { prefix } = "-"
 const validatePermissions = (permissions) => {
     const validPermissions = [
     'CREATE_INSTANT_INVITE',

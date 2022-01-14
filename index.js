@@ -2,7 +2,7 @@ const path = require('path')
 const fs = require('fs')
 const Discord = require('discord.js')
 const client = new Discord.Client()
-const config = require('./config.json')
+//const config = require('./config.json')
 
 client.on('ready', async () => {
     //loads the command-base file to dynamically create commands for each file in commands folder
@@ -25,5 +25,5 @@ client.on('ready', async () => {
     commandBase.listen(client);
 })
 
-client.login(config.token)
+client.login(process.env.mumeibot-token)
 console.log('Mumei is awake')
