@@ -49,7 +49,7 @@ module.exports = {
             "Birds are the only animals with feathers",
             "The bald eagle is called bald because it is only black and white, also known as 'piebald'",
             "Eleven percent of the world’s bird species are endangered. Draining wetlands and felling forests are the main causes of damage, but pollution and pesticides also play a part",
-            "Before 1840, there were thousands of millions of passenger pigeons in North America. However, they were slaughtered for food until only one was left, a female called Martha. She died when she was 12 years old in 1914, in a zoo in Ohio",
+            "Before 1840, there were millions of passenger pigeons in North America. However, they were slaughtered for food until only one was left, a female called Martha. She died when she was 12 years old in 1914, in a zoo in Ohio",
             'The word "swan" is derived from the Indo-European root *swen, meaning "to sound, to sing"',
             'Someone who suffers from "anatidaephobia" believes that somewhere, somehow a duck or goose is constantly watching them',
             'There are more fake flamingos on Earth than real ones',
